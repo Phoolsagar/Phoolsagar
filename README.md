@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Phoolsagar Singh 👋<br>I'm a Computer Science student and aspiring Java Full Stack Developer passionate about building real-world web applications and improving my problem-solving skills. 
   
- 
+  
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phoolsagar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phoolsagar289@gmail.com)
 
