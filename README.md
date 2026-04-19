@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Phoolsagar Singh 👋<br>I'm a Computer Science student and aspiring Java Full Stack Developer passionate about building real-world web applications and improving my problem-solving skills.
+Hi, I'm Phoolsagar Singh 👋<br>I'm a Computer Science student and aspiring Java Full Stack Developer passionate about building real-world web applications and improving my problem-solving skills. 
  
  
 ## 🌐 Socials: 
